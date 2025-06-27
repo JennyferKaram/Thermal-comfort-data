@@ -1,4 +1,7 @@
 # Thermal Comfort Data
+
 # This repository contains three different Jupyter notebook files with their corresponding README files
   Each README file explains the cells in each Jupyter notebook file
   The codes were used to generate the results presented in the manuscript entitled "Evaluating Historical Outdoor Thermal Discomfort in the Eastern Mediterranean and the Middle East".
+
+#Also you can find 2 excel files which were used to generated the plots in the manuscript.
