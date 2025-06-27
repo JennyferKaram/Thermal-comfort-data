@@ -1,0 +1,15 @@
+This README explain the cells contained in the "Jupyter_Notebook_1"
+
+cell1:this cell contains a code in which you input the .nc file for the corresponding city and year and you will     get a new .nc file containing the calculated RH, resultant windspeed, and the five thermal comfort indices in the ERA5_ReanalysisData-Updated folder.
+
+cell2:this cell contains the code to calculate also the wet bulb temperature and put it in a new .nc file which will be saved in the"AverageMonths" folder to be used when drawing the regression maps in the paper.
+
+cell3:this cell contains the code to get the temperature or RH of a certain city for the summer season averaged over 43 years
+
+cell4:this cell contains the code to get the temperature and RH seasonally and annually for each decade.
+
+cell5: this cell contains the code to get the summation of the total number of days in the summer period (from May to September) during which the ET exceeds 23 degrees (above hot sensation) for the land area only of the total studied domain. It can also be modified to get the summation of the total number of days in the summer period (from May to September) during which WBGT exceeds 24 degrees (above hot sensation). The aim of this cell is to find the year during which the total studied land area experiences the highest discomfort days in order to plot the temperature, RH, and windspeed during this summer year.
+
+cell6: this cell contains the summation of the number of days during the summer period (from May to September) during which the WBGT index exceeds 24 degrees.
+
+cell7: in this cell, we are separating the average values of temperatures, RH, and WS during night from those during the day for each city 

@@ -1,0 +1,14 @@
+This README file explains the cells contained in the "Jupyter_Notebook3":
+
+
+cell1: the code to calculate the total number of days from May to September with ET > 23 for more than 8 consecutive hours. This code calculates only for one city and one year according to the dataset that you input.
+
+cell2: the code to calculate the total number of days from May to September with WBGT > 24 for more than 8 consecutive hours. This code calculates for all the 18 cities at once.
+
+cell3: Same as cell 2 but for ET > 23.
+
+cell4:to plot the maps of the average summer temperature, RH and WS (according to the extracted data) for the entire time period from 1980 till 2023.
+
+cell5: to plot the maps of the anomalies of temperature, RH and WS (according to the extracted data) for the average (1999-2023) minus the average (1980-1998). This shows how much these variables changed between 2 periods.
+
+cell6: to plot the maps of anomalies of temperature, RH, WS (according to the extracted data) for the average (1999-2023) minus (1980-2023). This gives how much these variables differ from the long term mean.

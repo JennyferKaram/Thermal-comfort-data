@@ -1,0 +1,36 @@
+This README file explains the cells contained in the "Jupyter_Notebook2":
+
+
+cell1: the code to draw the maps of temperature and RH
+
+cell2: the code to draw the map of the DI index
+
+cell3: the code to draw the map of the HI index
+
+cell4: the code to draw the map of the HD index
+
+cell5: the code to draw the map of the WBGT index
+
+cell6: the code to draw the map of the ET index
+
+cell7: the code to draw the regression maps of the temperature during winter, spring, summer, autumn and annually.
+
+cell8: the code to draw the regression maps of the RH during winter, spring, summer, autumn and annually.
+
+cell9: the code to draw the regression maps of the all the thermal indices and the WBT during winter, spring, summer, autumn and annually. You just change the name of the parameter in the ds[''].
+
+cell10: code to calculate the average number of discomfort hours averaged over the entire summer months for each year. This code is to draw the circle plots in the paper. You change the input file for the corresponding city and year.
+
+cell11:code to calculate the number of discomfort hours per day averaged for 43 year but for each summer month alone. This code is used to draw the bar plots in the paper. You just change the input file for the corresponding city and year.
+
+cell12:code for the average number of days per month during which the indices exceeds the threshold. This code has not been used anywhere in the paper.
+
+cell13:code to calculate the %RH/decade annually. This has been used in the paper to discuss the regression maps quantitatively.
+
+cell14:code to calculate the degree C/decade annually. This has been used in the paper to discuss the regression maps quantitatively.
+
+cell15:code to calculate the %RH/decade for the summer season only, This has been used in the paper to discuss the regression maps quantitatively.
+
+cell16:code to calculate the degree C/decade for the summer season only. This has been used in the paper to discuss the regression maps quantitatively.
+
+cell17:code to get the numbers to fill the table in the appendix of the paper. The temperature and RH for each city, each year, each season.
