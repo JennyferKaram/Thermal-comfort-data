@@ -2,6 +2,9 @@
 
 # This repository contains three different Jupyter notebook files with their corresponding README files
   Each README file explains the cells in each Jupyter notebook file
-  The codes were used to generate the results presented in the manuscript entitled "Evaluating Historical Outdoor Thermal Discomfort in the Eastern Mediterranean and the Middle East".
+  The codes were used to generate the results in the manuscript "Evaluating Historical Outdoor Thermal Discomfort in the Eastern Mediterranean and the Middle East".
 
-# Also, you can find 2 Excel files, that were used to generate the plots in the manuscript.
+# Also, you can find 2 Excel files used to generate the plots in the manuscript.
+# Also, you can find the data of dry bulb temperature, Relative humidity, Windspeed, Effective temperature, Wet Bulb Globe temperature, Discomfort Index, Heat Index and Humidex
+  for each city (Amman, Abu Dhabi, Amman, Ankara, Athens, Baghdad, Beirut, Cairo, Damascus, Doha, Istanbul, Jerusalem, Manama, Mascat, Nicosia, Riyadh, Sanaa, Tehran, and Kuwait), 
+  each year (from 1980 till 2023).
